@@ -80,7 +80,7 @@
 #home::before {
     content: "";
     position: absolute;
-    background: url(https://github.com/botARPIT/Fauget/tree/main/images/bg2.png) no-repeat center center/cover;
+    background: url(./images/bg2.png) no-repeat center center/cover;
     height: 82%;
     width: 100%;
     top: 0%;
