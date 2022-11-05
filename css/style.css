@@ -62,7 +62,8 @@
 }
 
 #navbar ul li a:hover {
-    background-color: rgb(252, 248, 248);
+    background-color: black;
+    color: white;
 }
 
 /* Home section */
@@ -230,6 +231,7 @@ footer {
     font-size: 1.1rem;
     border-radius: 1.2rem;
     background-color: sandybrown;
+    border: 2px solid black;
     cursor: pointer;
 }
 
