@@ -5,6 +5,10 @@
     font-family: 'Albert Sans';
 }
 
+html{ 
+    scroll-behaviour: smooth;
+}
+
 /* CSS Variable */
 :root {
     --navbar-height: 59px;
